@@ -24,9 +24,15 @@ Digital-Nurture-5.0
 │   ├── PL/SQL Programming
 │   └── Test Driven Development and Logging Framework
 │
-└── Week_2
-    ├── Spring Core Maven
-    └── Spring Data JPA with Spring Boot and Hibernate
+├── Week_2
+│   ├── Spring Core Maven
+│   └── Spring Data JPA with Spring Boot and Hibernate
+│
+├── Week_3
+│   └── Spring REST using Spring Boot 3
+│
+└── Week_4
+    └── Microservices with Spring Boot 3 and Spring Cloud
 ```
 
 ---
@@ -42,6 +48,12 @@ Digital-Nurture-5.0
 ### ✅ Week 2 – Deepskilling
 - Spring Core and Maven
 - Spring Data JPA with Spring Boot and Hibernate
+
+### ✅ Week 3 – Deepskilling
+- Spring REST using Spring Boot 3
+
+### ✅ Week 4 – Deepskilling
+- Microservices with Spring Boot 3 and Spring Cloud
 
 ---
 
