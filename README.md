@@ -62,7 +62,7 @@ Digital-Nurture-5.0
 | Category | Tools |
 |---|---|
 | Programming Language | Java, SQL |
-| Backend Framework | Spring Boot, Spring Core, Spring Data JPA |
+| Backend Framework | Spring Boot, Spring Core, Spring Data JPA, Spring Cloud |
 | Database | MySQL, PL/SQL |
 | Testing | JUnit, Mockito |
 | Logging | SLF4J |
@@ -83,6 +83,8 @@ Digital-Nurture-5.0
 - SQL and PL/SQL Database Programming
 - Spring Framework and Dependency Injection
 - Spring Data JPA and Hibernate ORM
+- RESTful API Development and JWT Authentication
+- Microservices Architecture with Spring Cloud
 - Unit Testing with JUnit and Mockito
 - Logging with SLF4J
 - Maven Project Configuration
